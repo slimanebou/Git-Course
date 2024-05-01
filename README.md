@@ -1,5 +1,5 @@
-# Git-Course
+# Git_Course
 For Learning Git Course 
 
 
-## project 
+## project notes
